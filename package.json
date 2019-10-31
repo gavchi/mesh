@@ -11,7 +11,7 @@
     },
     "devDependencies": {
         "@mdi/font": "^3.8.95",
-        "axios": "^0.17",
+        "axios": "^0.19",
         "bootstrap-sass": "^3.3.7",
         "bulma": "^0.7.5",
         "cross-env": "^5.1",
